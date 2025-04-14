@@ -25,7 +25,7 @@ This project provisions a static website on AWS s3 using terraform.
 
 ## Preview
 
-![Screenshot of deployed static site](site-preview.png)
+![Screenshot of deployed static site](site-preview.PNG)
 
 ## Usage:
 
