@@ -19,6 +19,14 @@ This project provisions a static website on AWS s3 using terraform.
 - Applies public access policy
 - Outputs the live website URL
 
+## Features
+
+- Infrastructure as Code with Terraform
+- CI/CD deployment via GitHub Actions
+- Fully public static site hosting on AWS
+- Secure IAM policy configuration
+- Auto-generated output for easy access to live URL
+
 ## Live Site:
 
 [crbelik-serverless-site.s3-website-us-east-1.amazonaws.com](crbelik-serverless-site.s3-website-us-east-1.amazonaws.com)
